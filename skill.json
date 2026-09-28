@@ -1,0 +1,9 @@
+{
+  "name": "genpark-maximum-flow-edmonds-karp-network-skill",
+  "version": "1.0.0",
+  "description": "Edmonds-Karp network flow engine with BFS augmenting paths computing maximum flow and minimum cut bottlenecks for multi-agent routing.",
+  "category": "Service",
+  "entrypoint": "client.py",
+  "mcp": "mcp_server.py",
+  "author": "GenPark AI"
+}
